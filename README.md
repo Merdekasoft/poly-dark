@@ -30,7 +30,7 @@ Screenshot is intentionally low res to fit GitHub UI. See also: [1280×720](http
 - **Easier, less secure way** — just download and run install script:
 
   ```sh
-  wget -O - https://github.com/Merdekasoft/poly-dark/raw/master/install.sh | bash
+  wget -O - https://github.com/Merdekasoft/poly-dark/raw/master/install.sh | bash --lang English
   ```
 
 <br>
