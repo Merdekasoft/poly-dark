@@ -16,7 +16,7 @@ Screenshot is intentionally low res to fit GitHub UI. See also: [1280×720](http
   - Download install script:
 
     ```sh
-    wget -P /tmp https://github.com/shvchk/poly-dark/raw/master/install.sh
+    wget -P /tmp https://github.com/Merdekasoft/poly-dark/raw/master/install.sh
     ```
 
   - Review it at `/tmp/install.sh`
@@ -30,7 +30,7 @@ Screenshot is intentionally low res to fit GitHub UI. See also: [1280×720](http
 - **Easier, less secure way** — just download and run install script:
 
   ```sh
-  wget -O - https://github.com/shvchk/poly-dark/raw/master/install.sh | bash
+  wget -O - https://github.com/Merdekasoft/poly-dark/raw/master/install.sh | bash
   ```
 
 <br>
@@ -44,7 +44,7 @@ bash /tmp/install.sh --lang German
 or
 
 ```sh
-wget -O- https://github.com/shvchk/poly-dark/raw/master/install.sh | bash -s -- --lang Korean
+wget -O- https://github.com/Merdekasoft/poly-dark/raw/master/install.sh | bash -s -- --lang Korean
 ```
 
 Full list of languages see in `INSTALLER_LANGS` variable in [install.sh](install.sh)
@@ -54,5 +54,5 @@ Full list of languages see in `INSTALLER_LANGS` variable in [install.sh](install
 
 ### See also
 
-- [Poly light GRUB theme](https://github.com/shvchk/poly-light)
-- [Fallout GRUB theme](https://github.com/shvchk/fallout-grub-theme)
+- [Poly light GRUB theme](https://github.com/Merdekasoft/poly-light)
+- [Fallout GRUB theme](https://github.com/Merdekasoft/fallout-grub-theme)
